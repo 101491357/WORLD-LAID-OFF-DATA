@@ -3,6 +3,7 @@ DATA CLEANING AND EXPLORATION WITH SQL
 This project focuses on cleaning, standardizing, and removing duplicates from the world_layoffs dataset, which tracks layoffs across various companies, industries, and countries. The goal is to ensure that the data is accurate, consistent.
 
 #Steps and SQL Queries includes;
+
 #Fetch all records from the world_layoffs.layoffs table.
 #Create a Staging Table
 #Create a staging table, layoffs_Staging, to prepare and clean the data before further processing
